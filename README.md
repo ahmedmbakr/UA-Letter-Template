@@ -8,5 +8,3 @@ Files to Edit:
 - `signature_block.pdf`: Replace this one with your signature.
 
 This template is created by Ahmed Bakr and it follows the guideline from this link: https://brand.ua.edu/resources/
-
-For any questions, please contact Ahmed Bakr (ambakr@crimson.ua.edu).
